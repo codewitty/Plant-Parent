@@ -1,4 +1,4 @@
 # Plant-Parent
 
 
-![alt text](https://github.com/codewitty/Plant-Parent/main/landingPage.png?raw=true)
+![alt text](https://github.com/codewitty/Plant-Parent/blob/main/landingPage.png?raw=true)
