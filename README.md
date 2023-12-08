@@ -3,7 +3,7 @@
 # Plant Parent 🌱👪
 
 ## Introduction 🌟
-Welcome to Plant Parent, your personal plant care assistant! This handy device keeps an eye on your plants' soil moisture, alerting you when it's time to water them. It's a simple, effective solution for anyone who loves plants but might not always remember when to water them. With Plant Parent, taking care of your plants is easy and worry-free. 🌿🌺🌱
+Welcome to Plant Parent, your all-in-one plant care assistant! This ingenious device not only monitors your plants' soil moisture, alerting you when it's time to water, but also keeps track of UV radiation levels. It lets you know the perfect time to move your plant to ensure it gets just the right amount of sunlight. Ideal for plant enthusiasts who want to provide the best care but might not always remember the intricate details of plant care. With Plant Parent, nurturing your plants becomes easy, effective, and worry-free. Enjoy a thriving indoor garden with the perfect balance of water and sunlight! 🌿🌺🌞🌱
 
 ## Features 🎉
 - **Real-Time Soil Moisture Detection**: Tracks the moisture level of your soil.
