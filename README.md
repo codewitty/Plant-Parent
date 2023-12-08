@@ -1,3 +1,4 @@
+![PlantParent](https://github.com/codewitty/Plant-Parent/assets/35624908/027c8c0c-7ab3-4235-b55d-adc529ecad62)
 
 # Plant Parent 🌱👪
 
